@@ -1,0 +1,89 @@
+
+/* Montserrat */
+@font-face {
+    font-family: 'Montserrat-Black';
+    src: url('../fonts/Montserrat/Montserrat-Black.otf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat-Bold';
+    src: url('../fonts/Montserrat/Montserrat-Bold.otf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat-ExtraBold';
+    src: url('../fonts/Montserrat/Montserrat-ExtraBold.otf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat-ExtraLight';
+    src: url('../fonts/Montserrat/Montserrat-ExtraLight.otf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat-Light';
+    src: url('../fonts/Montserrat/Montserrat-Light.otf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat-Medium';
+    src: url('../fonts/Montserrat/Montserrat-Medium.otf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat-Regular';
+    src: url('../fonts/Montserrat/Montserrat-Regular.otf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat-SemiBold';
+    src: url('../fonts/Montserrat/Montserrat-SemiBold.otf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat-Thin';
+    src: url('../fonts/Montserrat/Montserrat-Thin.otf') format('truetype');
+}
+/* END Montserrat */
+
+
+@font-face {
+    font-family: 'RobotoCondensed-Regular';
+    src: url('../fonts/Roboto Condensed/RobotoCondensed-Regular_0.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'RobotoCondensed-Light';
+    src: url('../fonts/Roboto Condensed/RobotoCondensed-Light_0.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'RobotoCondensed-LightItalic';
+    src: url('../fonts/Roboto Condensed/RobotoCondensed-LightItalic_0.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'RobotoCondensed-Italic';
+    src: url('../fonts/Roboto Condensed/RobotoCondensed-Italic_0.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'RobotoCondensed-BoldItalic';
+    src: url('../fonts/Roboto Condensed/RobotoCondensed-BoldItalic_0.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'RobotoCondensed-Bold';
+    src: url('../fonts/Roboto Condensed/RobotoCondensed-Bold_0.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'RobotoCondensed-condensed-italic';
+    src: url('../fonts/Roboto Condensed/roboto-condensed-italic-595ba37c78374.ttf') format('truetype');
+}
+
+
+@font-face {
+    font-family: 'SVN-Titillium-medium';
+    src: url('../fonts/SVN-Titillium Medium/SVN-Titillium medium.ttf') format('truetype');
+}
