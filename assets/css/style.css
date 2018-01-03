@@ -322,7 +322,8 @@
     border-radius: 10px;
     min-height: 400px;
     width: 30%;
-    margin-right: 20px;
+    margin-right: 9px;
+    margin-left: 10px;
 }
 .wrap-seven .seven-sub-bg p{
     text-align: center;
@@ -422,4 +423,14 @@
     color: #fff;
     margin-top: 25px;
     font-size: 15px;
+}
+
+
+
+/* RESPONESIVE */
+.wrap-two .two-rsp, .wrap-three .three-rsp,
+.wrap-three .three-rsp-content, .wrap-five .five-rsp,
+.wrap-seven .seven-rsp, .wrap-eight .eight-rsp,
+.wrap-nine .nine-rsp{
+    display: none;
 }
