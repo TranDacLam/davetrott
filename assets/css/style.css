@@ -15,7 +15,7 @@
     padding-left: 0;
 }
 .wrap-one .one-title p{
-    font-family: "RobotoCondensed-condensed-italic", sans-serif;
+    font-family: "Montserrat-Light", sans-serif;
     font-size: 18px;
     color: #fff;
     height: 35px;
@@ -42,7 +42,7 @@
     padding-top: 75px;
 }
 .wrap-two .two-left h3{
-    font-family: 'Montserrat-Bold';
+    font-family: 'Montserrat-Bold', sans-serif;
     font-size: 30px;
     line-height: 36px;
 }
@@ -50,10 +50,11 @@
     line-height: 10px;
     padding-top: 35px;
     padding-bottom: 25px;
-    font-family: Montserrat-Light;
+    font-family: 'Montserrat-Light', sans-serif;
+    font-size: 15px;
 }
 .wrap-two .btn-primary{
-    font-family: 'Montserrat-Bold';
+    font-family: 'Montserrat-Bold', sans-serif;
     font-size: 16px;
     background-color: #e7714b;
     border-color: #e7714b;
@@ -84,16 +85,16 @@
 }
 .wrap-three .three-right{
     padding-left: 100px;
-    margin-top: 120px;
+    margin-top: 100px;
 }
 .wrap-three .three-right h3{
     font-family: "Montserrat-Bold", sans-serif;
-    font-size: 36px;
+    font-size: 38px;
     margin-bottom: 30px;
 }
 .wrap-three .three-right p{
     font-family: "SVN-Titillium-medium", sans-serif;
-    width: 50%;
+    width: 70%;
     font-size: 15px;
     margin-top: 20px;
 }
@@ -103,14 +104,14 @@
     color: #fff;
 }
 .wrap-four img{
-    width: 9%;
+    width: 10%;
     margin-top: 30px;
 }
 .wrap-four .parallax {
     /* The image used */
     background-image: url("../images/fix_bg_3.png");
     /* Set a specific height */
-    min-height: 345px; 
+    min-height: 350px; 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: center;
@@ -118,15 +119,16 @@
     background-size: 70%;
 }
 .wrap-four .four-title{
-    font-family: "Montserrat-Bold";
+    font-family: "Montserrat-Bold", sans-serif;
     padding-top: 32px;
-    font-size: 16px;
+    font-size: 18px;
     padding-bottom: 25px;
 }
 .wrap-four .four-content{
-    width: 50%;
+    width: 52%;
     margin: 0 auto;
-    font-family: "Montserrat-Light";
+    font-family: "Montserrat-Light", sans-serif;
+    font-size: 15px;
 }
 
 .wrap-five{
@@ -214,7 +216,7 @@
 }
 .wrap-five .five-title{
     font-family: "Montserrat-Bold", sans-serif;
-    font-size: 34px;
+    font-size: 36px;
     margin-bottom: 40px;
     padding-left: 130px;
 }
@@ -237,10 +239,11 @@
     margin-right: 40px;
     margin-bottom: 35px;
     border-radius: 12px;
-    min-height: 230px;
+    min-height: 270px;
     width: 37%;
 }
 .wrap-six .six-note{
+    font-size: 16px;
     margin: 12px 20px 0 20px;
     font-family: "Montserrat-Regular", sans-serif;
 }
@@ -254,6 +257,7 @@
     margin-bottom: 15px;
 }
 .wrap-six .six-left-1{
+    font-size: 15px;
     font-family: "SVN-Titillium-medium", sans-serif;
 }
 .wrap-six .six-left-2{
@@ -366,10 +370,12 @@
 }
 .wrap-eight .eight-left-title{
     font-family: 'Montserrat-Bold', sans-serif;
+    font-size: 16px;
 }
 .wrap-eight .eight-left-content{
     font-family: "SVN-Titillium-medium", sans-serif;
     margin-bottom: 30px;
+    font-size: 16px;
 }
 .wrap-eight .eight-left{
     padding-left: 40px;
@@ -389,7 +395,7 @@
 }
 .wrap-eight .eight-left .eight-left-title,
 .wrap-eight .eight-left .eight-left-content{
-    width: 50%;
+    width: 64%;
 }
 
 .wrap-nine{
@@ -415,4 +421,5 @@
     font-family: "RobotoCondensed-Regular", sans-serif;
     color: #fff;
     margin-top: 25px;
+    font-size: 15px;
 }
