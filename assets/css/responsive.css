@@ -225,7 +225,7 @@
         padding-left: 33px;
         margin-bottom: 20px;
     }
-    .wrap-five .carousel-inner .item>img{
+    .wrap-five .carousel-inner .item>a>img{
         width: 49%;
     }
     .wrap-five .carousel-caption  .note-slide, 
@@ -552,6 +552,7 @@
     .wrap-nine{
         padding-top: 20px;
         padding-bottom: 40px;
+        margin-bottom: 0;
     }
     .wrap-nine .nine-left, .wrap-nine .nine-right{
         width: 50%;
@@ -590,7 +591,7 @@
     .wrap-three .three-pc-content, .wrap-five #myCarousel,
     .wrap-seven .seven-pc, .wrap-eight #eight-carousel-1,
     .wrap-eight #eight-carousel-2,
-    .wrap-nine .nine-pc{
+    .wrap-nine .nine-pc, .wrap-ten{
         display: none;
     }
     .wrap-two .two-rsp, .wrap-three .three-rsp,

@@ -84,6 +84,12 @@
 
 
 @font-face {
+    font-family: 'Elle-futura-bold';
+    src: url('../fonts/Elle Futura/elle-futura-bold.otf') format('truetype');
+}
+
+
+@font-face {
     font-family: 'SVN-Titillium-medium';
     src: url('../fonts/SVN-Titillium Medium/SVN-Titillium medium.ttf') format('truetype');
 }
