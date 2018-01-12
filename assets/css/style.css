@@ -113,14 +113,13 @@
 }
 .wrap-four .parallax {
     /* The image used */
-    background-image: url("../images/fix_bg_3.png");
+    background-image: url("../images/bg3_2.png");
     /* Set a specific height */
     min-height: 350px; 
     /* Create the parallax scrolling effect */
-    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 70%;
+    background-size: 100%;
 }
 .wrap-four .four-title{
     font-family: "Montserrat-Bold", sans-serif;
@@ -297,14 +296,13 @@
 }
 .wrap-seven .parallax {
     /* The image used */
-    background-image: url("../images/bg6.png");
+    background-image: url("../images/bg6_2.png");
     /* Set a specific height */
     min-height: 345px; 
     /* Create the parallax scrolling effect */
-    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 70%;
+    background-size: 115%;
     padding-bottom: 80px;
 }
 .wrap-seven .seven-title h3{
